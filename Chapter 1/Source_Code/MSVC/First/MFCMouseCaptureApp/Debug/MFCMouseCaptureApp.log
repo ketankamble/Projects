@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\atlmfc\include\afx.h(62): fatal error C1083: Cannot open include file: 'new.h': No such file or directory
