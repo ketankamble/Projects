@@ -44,12 +44,10 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789533576_ColorImages.pdf).
 
-<!--
+
 ## Errata
--->
-<!--
+
 * Page no. 234 (Paragraph 2, line 4): The file name "python.py" should be "python3.7.py"
--->
 
 ### Related products
 * Learn OpenCV 4 By Building Projects - Second Edition [[Packt]](https://www.packtpub.com/product/learn-opencv-4-by-building-projects-second-edition/9781789341225?utm_source=github&utm_medium=repository&utm_campaign=9781789341225) [[Amazon]](https://www.amazon.com/dp/B07J9LYR9S)
